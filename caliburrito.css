@@ -1,0 +1,83 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: beige;
+  font-family: 'Lato', sans-serif;
+}
+
+#addresshours {
+  background-color: green;
+  width: 100%;
+  height: auto;
+  margin: 0 auto;
+}
+
+#addresshours p {
+  text-align: center;
+  margin: 0;
+  padding: 5px;
+  font-size: 1em;
+}
+
+#logobanner {
+  width: 100%;
+  height: auto;
+  text-align: center;
+}
+
+#logobanner h1 {
+  margin: 0;
+  padding: 10px;
+}
+
+#logobanner img {
+  height: 200px;
+  width: auto;
+  padding-top: 20px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+}
+
+#slogan {
+  text-decoration: none;
+  color: black;
+  font-size: 1.2em;
+  margin-top: 0;
+  font-style: italic;
+}
+
+nav {
+  margin: 0 auto;
+  text-align: center;
+  padding-bottom: 20px;
+  background-color: green;
+  padding-top: 2vh;
+}
+
+nav a {
+  text-transform: uppercase;
+  letter-spacing: .05em;
+  color: black;
+  padding: 3vw;
+  font-size: 1.2em;
+}
+
+#main {
+  width: 70%;
+  margin: 0 auto;
+  height: auto;
+}
+
+#mainpic {
+  float: left;
+  margin-right: 20px;
+}
+
+#title {
+  font-weight: bold;
+}
+
+#about {
+font-size: 1.2em;
+}

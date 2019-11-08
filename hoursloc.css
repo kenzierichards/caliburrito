@@ -1,0 +1,15 @@
+iframe {
+  padding-top: 10px;
+  float: right;
+}
+
+#main {
+  padding-top: 17px;
+  width: 60%;
+  height: auto;
+}
+
+#locontact {
+  float: left;
+  clear: both;
+}
